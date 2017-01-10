@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>296567069657-l07giut0u6ncnjen37efmlrtkk677dan.apps.googleusercontent.com</string>
+	<string>940680544140-ddcrs5ffivrtrfj49vh44v5ifk22mtqq.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.296567069657-l07giut0u6ncnjen37efmlrtkk677dan</string>
+	<string>com.googleusercontent.apps.940680544140-ddcrs5ffivrtrfj49vh44v5ifk22mtqq</string>
 	<key>API_KEY</key>
-	<string>AIzaSyABVmKgi6_0jfOXFOQNSUvDVuFXdjIfrSA</string>
+	<string>AIzaSyBBVe1lxRz2rNYjbshL0XEUqfzJbRSL3so</string>
 	<key>GCM_SENDER_ID</key>
-	<string>296567069657</string>
+	<string>940680544140</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ladeezfirstmedia.giftler</string>
+	<string>com.byrondover.giftler</string>
 	<key>PROJECT_ID</key>
-	<string>giftler-f48c4</string>
+	<string>giftler-5f880</string>
 	<key>STORAGE_BUCKET</key>
-	<string>giftler-f48c4.appspot.com</string>
+	<string>giftler-5f880.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:296567069657:ios:eca4db03c9dbad9c</string>
+	<string>1:940680544140:ios:ea3d49ed62f43fbd</string>
 	<key>DATABASE_URL</key>
-	<string>https://giftler-f48c4.firebaseio.com</string>
+	<string>https://giftler-5f880.firebaseio.com</string>
 </dict>
 </plist>

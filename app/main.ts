@@ -1,4 +1,5 @@
-// this import should be first in order to load some required settings (like globals and reflect-metadata)
+// this import should be first in order to load some required settings (like
+// globals and reflect-metadata)
 import { platformNativeScriptDynamic } from "nativescript-angular/platform";
 
 import { AppModule } from "./app.module";
@@ -9,7 +10,7 @@ import firebase = require("nativescript-plugin-firebase");
 firebase.init({
   //persist should be set to false as otherwise numbers aren't returned during livesync
   persist: false,
-  storageBucket: 'gs://giftler-f48c4.appspot.com',
+  storageBucket: 'gs://giftler-5f880.appspot.com',
   onAuthStateChanged: (data: any) => {
     console.log(JSON.stringify(data))
     if (data.loggedIn) {
